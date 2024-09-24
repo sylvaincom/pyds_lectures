@@ -4,6 +4,7 @@
 *.zip
 /cs_exed/ms_ia_confiance/2024_2025/labs/*
 /cs_exed/ms_ia_confiance/2024_2025/lectures/swc-python/*
+cs_exed/ms_ia_confiance/2024_2025/lectures/20240917_morning.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
