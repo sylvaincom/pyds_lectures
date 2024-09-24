@@ -1,5 +1,9 @@
 *.DS_Store
 *.csv
+*.txt
+*.zip
+/cs_exed/ms_ia_confiance/2024_2025/labs/*
+/cs_exed/ms_ia_confiance/2024_2025/lectures/swc-python/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
