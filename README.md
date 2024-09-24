@@ -1,2 +1,1 @@
-# pyds_lectures
-Python for Data Science lecture
+# Python for Data Science lectures
